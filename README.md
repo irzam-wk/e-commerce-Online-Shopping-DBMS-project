@@ -1,11 +1,12 @@
 # e-commerce-Online-Shopping-DBMS-project
-**GROUP 14** 
 
 JMI B.tech(2022) Semester IV DBMS project on Online Shopping.
 
 ## **This project was made from the collective efforts of**
 
 Students of FET-JMI, Batch 2020-2024
+
+**GROUP 14**
 - 20BCS056 Asif Khan
 - 20BCS077 Mohd Irzam Wajahat
 - 20BCS029 Istiyak Ahmad Khan
