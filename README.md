@@ -1,5 +1,7 @@
 # e-commerce-Online-Shopping-DBMS-project
-JMI B.tech(2022) Semester IV DBMS project Group 14 on Online Shopping.
+**GROUP 14** 
+
+JMI B.tech(2022) Semester IV DBMS project on Online Shopping.
 
 ## **This project was made from the collective efforts of**
 
